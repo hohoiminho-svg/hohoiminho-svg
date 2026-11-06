@@ -19,4 +19,4 @@
 ## 📫 Как со мной связаться
 - Telegram: @matduyu
 
-![Snake animation](https://raw.githubusercontent.com/hohoiminho-svg/hohoiminho-svg/output/github-snake.svg
+![Snake animation](https://raw.githubusercontent.com/hohoiminho-svg/hohoiminho-svg/output/github-snake.svg)
