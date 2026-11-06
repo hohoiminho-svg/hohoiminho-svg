@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет, я Аня 👋
 
-<!--
-**hohoiminho-svg/hohoiminho-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий веб-разработчик и репетитор английского. 
+Верстаю сайты на HTML/CSS и собираю лендинги на Tilda.
 
-Here are some ideas to get you started:
+## 🔭 Над чем я работаю
+- Верстаю адаптивные сайты и лендинги.
+- Учусь на Fullstack-разработчика.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Мой стек
+- HTML, CSS, JavaScript
+- Tilda, GitHub Pages
+- Figma (базово)
+
+## 📂 Мои проекты
+- [Сайт-портфолио репетитора](https://hohoiminho-svg.github.io/my_portfolio/)
+- [Dashboard для учеников](https://hohoiminho-svg.github.io/dashboard/)
+
+## 📫 Как со мной связаться
+- Telegram: @matduyu
